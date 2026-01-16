@@ -73,9 +73,7 @@ All categorical features are label-encoded, and numeric features are scaled usin
 
 ## 📸 Sample UI
 
-> A friendly interface for predicting smart parking availability. Choose time, location, and other options from the sidebar and see real-time predictions!
-
-
+<img width="1884" height="742" alt="image" src="https://github.com/user-attachments/assets/b4ccf62f-a4b9-4613-966b-cf3b594dc4a0" />
 
 ## 📌 Note
 
